@@ -1,5 +1,7 @@
 # MouseUnSnag
-On a Windows system with multiple monitors, allow the mouse to move freely and not get stuck on corners or edges.
+On a Windows system with multiple monitors, allow the mouse to move freely and not get stuck on corners or edges.  Small revision added for handling of gaps in monitor arrangement -- mouse moves back and forth from below example monitors 2 and 3 without issue now.
+
+<img src=https://i.imgur.com/ikZZjBt.png />
 
 ## Getting Started
 This is a relatively simple, one-file, command-line C# program that solves the problem of the mouse getting "stuck" on corners and edges when moving between multiple monitors on a Windows system.
